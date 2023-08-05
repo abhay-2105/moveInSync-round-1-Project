@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "795756352671",
+    "project_id": "shipeasy-41ad5",
+    "storage_bucket": "shipeasy-41ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795756352671:android:f67e3f2778bc132c65feaa",
+        "android_client_info": {
+          "package_name": "com.example.ship_easy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795756352671-muano33ouo13fmkvrnpohhqv930kilt9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWMk3AgoNFT3X8wKWe0tKoEQosUatLFDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795756352671-muano33ouo13fmkvrnpohhqv930kilt9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "795756352671-lmbt8u7k2vjj7v6qdsnhg0e7b2e01pc8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shipeasy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
